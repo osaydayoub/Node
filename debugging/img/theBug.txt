@@ -1,0 +1,3 @@
+in line 75 foodObj is not an array, it is an object that includes 2 array meats and fish ,  
+change it to foodObj.meats.forEach to iterate on the meats array as 
+the iteration in line 79 in the fish array.
