@@ -1,0 +1,12 @@
+{
+  "name": "usersandtesting",
+  "version": "1.0.0",
+  "description": "users api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "osayd",
+  "license": "MIT"
+}
